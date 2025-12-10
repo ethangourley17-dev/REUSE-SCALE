@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Reuse Canada Scale",
+  "description": "Digital truck scale ticketing platform with RS232 integration and AI-powered license plate recognition.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
